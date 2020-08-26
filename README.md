@@ -1,2 +1,1 @@
-# zip2town
-Connecticut zipcode to town crosswalk
+# CT Zip to Town Crosswalk
